@@ -26,8 +26,8 @@ body{
     color: hsl(216,15%,48%);
     font-weight: 400;
 }
-footer{
-     margin-top: 100%;
+#footer{
+     margin-top: auto;
 }
 #Qr{
     width: 100%;
